@@ -1,4 +1,4 @@
-# pihole_
+# pihole
 # This my public little Repo for my RPi Pihole Server running on Ubuntu
 # Security Critial information like keys gets removed, but things like a well configured sshd_config or a hostname isnt very security critial if it isnt public. 
 # This isnt thought as a copy and run it "thing". Configuration fits for me, might not fit for you, might even throw an error on your system if you copy it 1to1.
